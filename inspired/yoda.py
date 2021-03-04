@@ -1,7 +1,15 @@
+"""This module contains yoda quotes."""
 import random
 
+
 def by_yoda():
-    """Return a quote from Yoda"""
+    """Return a quote from Yoda
+
+    Returns
+    -------
+    str
+        A quote from Yoda
+    """
     yoda_quotes = [
         "Fear is the path to the dark side. Fear leads to anger. Anger leads to hate. Hate leads to suffering.",
         "Once you start down the dark path, forever will it dominate your destiny. Consume you, it will.",
