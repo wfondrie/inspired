@@ -1,2 +1,2 @@
-# inspiration
-Effortlessly inject inspirational messages into your Python code
+# inspired
+Effortlessly inject inspirational messages into your Python code.
